@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balakumaran465
 - 👀 I’m interested in working new things
-- 🌱 I’m currently learning for full stack developer
+- 🌱 I’m currently seeking position for full stack developer
 - 📫 How to reach me balakumaran465@gmail.com
 
 <!---
